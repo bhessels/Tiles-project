@@ -6,6 +6,11 @@
 4.	
 https://studio.mapbox.com/styles/bhessels/clegg8qui000601pksbkdz40q/edit/#10.51/47.5919/-122.2292
 
+
+
+
+
+
 The geographic area that I am examining is Seattle since I have some familiarity with it. 
 
 the available zoom level of each tile set is 10 to 13.
